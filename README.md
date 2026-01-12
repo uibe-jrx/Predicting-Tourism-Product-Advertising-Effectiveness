@@ -1,2 +1,1 @@
-Hello everyone！This is our project on predicting the promotional effectiveness of multimodal tourism advertising. The code folder contains the project implementation, and the other files provide the corresponding data. Because the multimodal advertising dataset is very large, the original ad images are not included. If you are interested in this project, please contact us at (1412864801@qq.com
-) to discuss and exchange ideas.
+Hello everyone！This is our project on predicting the promotional effectiveness of multimodal tourism advertising. The repository includes the complete sensory extraction code, the full set of prompt templates, and a subset of sample data.
