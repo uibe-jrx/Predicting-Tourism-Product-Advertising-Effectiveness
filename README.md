@@ -1,1 +1,1 @@
-Hello everyone！This is our project on predicting the promotional effectiveness of multimodal tourism advertising. The repository includes the complete sensory extraction code, the full set of prompt templates, and a subset of sample data.
+Hello everyone! This repository presents our project on predicting the promotional effectiveness of multimodal tourism advertising. It includes the complete sensory extraction code and prompt templates. For readability, the prompt templates provided in this repository have been translated into English
